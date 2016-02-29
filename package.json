@@ -1,0 +1,27 @@
+{
+  "name": "datespan",
+  "version": "0.0.1",
+  "description": "Date & Timespans",
+  "homepage": "https://github.com/janlelis/datespan.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/janlelis/datespan.js"
+  },
+  "author": {
+    "name": "Jan Lelis",
+    "email": "mail@janlelis.de",
+    "url": "http://moremicromodules.org"
+  },
+  "keywords": [
+    "time",
+    "date",
+    "timespan",
+    "duration"
+  ],
+  "main": "datespan.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "license": "MIT"
+}

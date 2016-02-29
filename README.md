@@ -1,0 +1,1 @@
+Early drafts of an API for a date/time period library.
